@@ -1,0 +1,20 @@
+[
+  {
+    "IdUsuario": 1,
+    "Nome": "Vitor",
+    "Email": "teste@teste.com.br",
+    "Senha": "123456",
+    "Telefone": 40028922,
+    "DataNascimento": "1998-11-24T00:00:00",
+    "CPF": "29546656797"
+  },
+  {
+    "IdUsuario": 2,
+    "Nome": "Quality",
+    "Email": "Q@S.com.br",
+    "Senha": "qwerty",
+    "Telefone": 40028922,
+    "DataNascimento": "2000-10-20T12:00:00",
+    "CPF": "29546656797"
+  }
+]
