@@ -17,6 +17,7 @@ namespace QualitySystemsEstagio
         {
             get
             {
+                
                 if (usuarios == null)
                 {
                     //Caso haja usuario no arquivo repositorio.Json chama o metodo Select que desserializa os dados Json e 

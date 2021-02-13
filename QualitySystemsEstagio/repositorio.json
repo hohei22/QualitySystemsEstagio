@@ -10,11 +10,6 @@
   },
   {
     "IdUsuario": 2,
-    "Nome": "Claudio",
-    "Email": "cla@udio.com.br",
-    "Senha": "123456789",
     "Telefone": 40028922,
-    "DataNascimento": "2021-02-12T19:18:00",
-    "CPF": "29566546797"
   }
 ]
